@@ -1,4 +1,4 @@
 # git-demo
 my first git repository
 <br>
-by snigdha chauhan
+by snigdha c 
